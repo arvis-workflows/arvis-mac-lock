@@ -1,0 +1,39 @@
+{
+	"name": "@jopemachine/arvis-mac-lock",
+	"version": "0.0.1",
+	"description": "Arvis workflow to lock your Mac",
+	"license": "MIT",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "https://sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"postinstall": "arvish-init",
+		"preuninstall": "arvish-cleanup"
+	},
+	"files": [
+		"icon.png",
+		"lock",
+		"arvis-workflow.json"
+	],
+	"keywords": [
+		"arvis",
+		"arvish",
+		"workflow",
+		"macos",
+		"mac",
+		"lock",
+		"system",
+		"screen",
+		"os",
+		"login",
+		"password"
+	],
+	"dependencies": {
+		"@jopemachine/arvish": "^0.1.13"
+	}
+}

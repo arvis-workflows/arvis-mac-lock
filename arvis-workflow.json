@@ -1,11 +1,11 @@
 {
   "$schema": "https://github.com/jopemachine/arvis-core/blob/master/workflow-schema.json",
   "category": "Productivity",
-  "createdby": "Sindre Sorhus",
+  "creator": "Sindre Sorhus",
   "description": "Lock your Mac",
   "name": "Lock",
   "readme": "",
-  "webaddress": "",
+  "webAddress": "",
   "defaultIcon": "icon.png",
   "enabled": true,
   "commands": [
@@ -15,8 +15,8 @@
       "title": "Lock",
       "subtitle": "",
       "withspace": false,
-      "arg_type": "no",
-      "action": [
+      "argType": "no",
+      "actions": [
         {
           "modifiers": "normal",
           "type": "script",

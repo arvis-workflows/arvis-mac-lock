@@ -1,6 +1,6 @@
 {
-	"name": "@jopemachine/arvis-mac-lock",
-	"version": "0.2.0",
+	"name": "arvis-mac-lock",
+	"version": "0.0.1",
 	"description": "Arvis workflow to lock your Mac",
 	"license": "MIT",
 	"author": {
@@ -34,6 +34,6 @@
 		"password"
 	],
 	"dependencies": {
-		"@jopemachine/arvish": "^0.2.4"
+		"arvish": "^0.0.3"
 	}
 }

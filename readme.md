@@ -13,7 +13,7 @@ The built-in "Lock" command is buggy for me.
 ## Install
 
 ```
-$ npm install --global arvis-lock
+$ npm install --global arvis-mac-lock
 ```
 
 ## Usage

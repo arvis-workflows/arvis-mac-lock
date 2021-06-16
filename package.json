@@ -1,6 +1,6 @@
 {
 	"name": "arvis-mac-lock",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Arvis workflow to lock your Mac",
 	"license": "MIT",
 	"author": {
@@ -23,7 +23,7 @@
 	"keywords": [
 		"arvis",
 		"arvish",
-		"workflow",
+		"arvis-workflow",
 		"macos",
 		"mac",
 		"lock",
@@ -34,6 +34,6 @@
 		"password"
 	],
 	"dependencies": {
-		"arvish": "^0.0.3"
+		"arvish": "^0.1.3"
 	}
 }

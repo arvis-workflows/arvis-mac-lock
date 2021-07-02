@@ -3,10 +3,10 @@
   "category": "Productivity",
   "creator": "Sindre Sorhus",
   "description": "Lock your Mac",
-  "name": "Lock",
+  "name": "arvis-mac-lock",
   "readme": "",
-  "webAddress": "",
-  "version": "0.0.4",
+  "webAddress": "https://github.com/jopemachine/arvis-mac-lock",
+  "version": "0.0.5",
   "defaultIcon": "icon.png",
   "enabled": true,
   "commands": [

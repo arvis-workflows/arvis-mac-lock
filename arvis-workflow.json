@@ -9,6 +9,9 @@
   "version": "0.0.5",
   "defaultIcon": "icon.png",
   "enabled": true,
+  "platform": [
+    "darwin"
+  ],
   "commands": [
     {
       "type": "keyword",
